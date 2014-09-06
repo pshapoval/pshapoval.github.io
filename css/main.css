@@ -163,3 +163,18 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* Custom style */
+
+.post-title {
+    color: #333;
+}
+
+    .post-title a {
+        text-decoration: none;
+        color: #333;
+    }
+
+.posts a {
+    color: #333;
+}

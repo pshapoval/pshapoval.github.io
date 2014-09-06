@@ -1,2 +1,5 @@
 name: Blog of Pavel Shapoval
-pygments: true
+highlighter: true
+
+paginate: 10
+excerpt_separator: <!--more-->
