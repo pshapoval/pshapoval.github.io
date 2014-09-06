@@ -11,5 +11,5 @@ Just found amazing way to create ssh tunnel from remote host port to your localh
 ssh -f user@server -L <local_port>:127.0.0.1:<remote_port> -N
 ```
 
--f key to run it in background
--N key to not execute a command on the remote system (without it -f key has no effect and command hangs with error)
+* -f key to run it in background
+* -N key to not execute a command on the remote system (without it -f key has no effect and command hangs with error)
